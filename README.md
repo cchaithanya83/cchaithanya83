@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cchaithanya83
-- 👀 I’m interested in Android development and web development.
-- 🌱 I’m currently learning android development.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web development.
 - 📫 My Email ID is cchaithanya83@gmail.com 
 
 <!---
