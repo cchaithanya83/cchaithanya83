@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cchaithanya83&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="cchaithanya83" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cchaithanya83&" alt="cchaithanya83" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cchaithanya83&include_all_commits=true&count_private=true" alt="cchaithanya83" /></p>
