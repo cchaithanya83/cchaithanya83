@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @cchaithanya83<br>📫 My Email ID is cchaithanya83@gmail.com<br>🌱 I’m currently learning AI, MERN
+👋 Hi, I’m Chaithanya K<br>
+📫 My Email ID is cchaithanya83@gmail.com<br>
+🌱 I’m currently learning AI, MERN<br>
+🌐 My Portfolio: [chaithanyak.in](https://chaithanyak.in)
+
 
 
 ## 🌐 Socials:
